@@ -1,4 +1,4 @@
-!/usr/bin/node
+#/!/usr/bin/node
 
 export default class Building {
   constructor(sqft) {
